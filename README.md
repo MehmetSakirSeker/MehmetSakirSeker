@@ -28,3 +28,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetsakirseker&show_icons=true&locale=en&layout=compact" alt="mehmetsakirseker" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetsakirseker&show_icons=true&locale=en" alt="mehmetsakirseker" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmetsakirseker/mehmetsakirseker/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehmetsakirseker/mehmetsakirseker/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mehmetsakirseker/mehmetsakirseker/output/pacman-contribution-graph.svg">
+</picture>
